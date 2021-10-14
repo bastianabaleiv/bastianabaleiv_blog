@@ -6,7 +6,7 @@ description: Soy científico de datos y profesor universitario. Trabajo desarrol
   
 image_left: false
 images:
-- img/revoir.jpg
+- img/astrocony.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Data Scientist @Coca-Cola Embonor
