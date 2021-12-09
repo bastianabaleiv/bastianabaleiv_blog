@@ -17,7 +17,7 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Bastián Aballay
-  description: "Cada post es una plantita de mi [jardín digital](https://nesslabs.com/digital-garden-set-up)."
+  description: "Bitácora de aprendizaje en voz alta"
   show_sidebar_adunit: true
   text_link_label: Suscríbete via RSS
   text_link_url: /index.xml

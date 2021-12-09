@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Bastián Aballay</title>
+    <link>https://bastianabaleiv.netlify.app/categories/</link>
+    <description>Recent content in Categories on Bastián Aballay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bastianabaleiv.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>forecasting</title>
+      <link>https://bastianabaleiv.netlify.app/categories/forecasting/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianabaleiv.netlify.app/categories/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>https://bastianabaleiv.netlify.app/categories/r/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianabaleiv.netlify.app/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://bastianabaleiv.netlify.app/categories/talk/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianabaleiv.netlify.app/categories/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time series</title>
+      <link>https://bastianabaleiv.netlify.app/categories/time-series/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianabaleiv.netlify.app/categories/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://bastianabaleiv.netlify.app/categories/machine-learning/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianabaleiv.netlify.app/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>package</title>
+      <link>https://bastianabaleiv.netlify.app/categories/package/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianabaleiv.netlify.app/categories/package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme Features</title>
+      <link>https://bastianabaleiv.netlify.app/categories/theme-features/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianabaleiv.netlify.app/categories/theme-features/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

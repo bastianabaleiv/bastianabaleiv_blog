@@ -1,13 +1,13 @@
 ---
-author: Alison Hill
+author: Bastián Aballay
 categories:
-- evergreen
+- r
 date: "2021-01-20"
 draft: false
-excerpt: Good stuff
+excerpt: "Puntos a considerar para escribir código reproducible. Persona escribiendo kanji en Hanami, Jardín Botánico, Viña del Mar, V región de Chile (2019) [@joseidg9](https://www.instagram.com/joseidg9/)"
 layout: single
-subtitle: Testing
-title: An evergreen post
+subtitle: Puntos a considerar para escribir código reproducible
+title: Buenas prácticas de escritura de código R
 ---
 
 ## Rendering mathematical equations
