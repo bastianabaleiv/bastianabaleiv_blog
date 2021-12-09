@@ -1,4 +1,4 @@
-baseURL = "https://bastianabaleiv.netlify.app/" # TODO: DNS
+baseURL = "https://www.bastianabaleiv.com/" # TODO: DNS
 theme = "hugo-apero"
 languageCode = "en"
 title = "Bastián Aballay"
