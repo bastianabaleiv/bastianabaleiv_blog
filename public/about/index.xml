@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acerca de on Bastián Aballay</title>
-    <link>https://bastianabaleiv.netlify.app/about/</link>
+    <link>https://www.bastianabaleiv.com/about/</link>
     <description>Recent content in Acerca de on Bastián Aballay</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://bastianabaleiv.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.bastianabaleiv.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
