@@ -9,8 +9,6 @@ link_list_label: "Intereses" # bookmarks, elsewhere, etc.
 link_list:
 - name: Colaboración con Estación Lastarria (HAPST con R)
   url: https://estacionlastarria.cl/herramientas-para-analisis-y-pronostico-de-series-de-tiempo-en-r/
-- name: Herramientas para Analísis y Pronóstico de series de tiempo (HAPST) con R
-  url: https://hapst.netlify.app/
 ---
 
 ** index doesn't contain a body, just front matter above.

@@ -9,7 +9,7 @@ images:
 - img/abaleiv.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: Data Scientist @Coca-Cola Embonor
+subtitle: Principal Data Scientist @Coca-Cola Embonor
 text_align_left: true
 title: Bastián Aballay
 type: home
