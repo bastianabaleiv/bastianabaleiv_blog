@@ -30,7 +30,31 @@
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.bastianabaleiv.com/</loc>
-    <lastmod>2021-12-12T20:41:00-04:00</lastmod>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/categories/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/talk/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/categories/forecasting/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/categories/machine-learning/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/talk/2022-01-hapst/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/categories/r/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/categories/talk/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.bastianabaleiv.com/categories/time-series/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.bastianabaleiv.com/contact/</loc>
     <lastmod>2021-12-12T20:41:00-04:00</lastmod>
@@ -38,25 +62,7 @@
     <loc>https://www.bastianabaleiv.com/form/</loc>
     <lastmod>2021-12-12T20:41:00-04:00</lastmod>
   </url><url>
-    <loc>https://www.bastianabaleiv.com/categories/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.bastianabaleiv.com/talk/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.bastianabaleiv.com/categories/forecasting/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.bastianabaleiv.com/talk/2021-10-hapst/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.bastianabaleiv.com/categories/r/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.bastianabaleiv.com/categories/talk/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.bastianabaleiv.com/categories/time-series/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.bastianabaleiv.com/collection/</loc>
@@ -69,9 +75,6 @@
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.bastianabaleiv.com/talk/2020-06-hapst/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.bastianabaleiv.com/categories/machine-learning/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.bastianabaleiv.com/talk/2020-03-tidyworkflows-ml/</loc>

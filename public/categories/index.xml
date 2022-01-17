@@ -6,20 +6,29 @@
     <description>Recent content in Categories on Bastián Aballay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>forecasting</title>
       <link>https://www.bastianabaleiv.com/categories/forecasting/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bastianabaleiv.com/categories/forecasting/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>machine learning</title>
+      <link>https://www.bastianabaleiv.com/categories/machine-learning/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bastianabaleiv.com/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>r</title>
       <link>https://www.bastianabaleiv.com/categories/r/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bastianabaleiv.com/categories/r/</guid>
       <description></description>
@@ -28,7 +37,7 @@
     <item>
       <title>talk</title>
       <link>https://www.bastianabaleiv.com/categories/talk/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bastianabaleiv.com/categories/talk/</guid>
       <description></description>
@@ -37,18 +46,9 @@
     <item>
       <title>time series</title>
       <link>https://www.bastianabaleiv.com/categories/time-series/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bastianabaleiv.com/categories/time-series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://www.bastianabaleiv.com/categories/machine-learning/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bastianabaleiv.com/categories/machine-learning/</guid>
       <description></description>
     </item>
     

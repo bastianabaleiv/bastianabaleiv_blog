@@ -6,7 +6,16 @@
     <description>Recent content in forecasting on Bastián Aballay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/categories/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/categories/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pronosticando Series de Tiempo con Machine Learning en R</title>
+      <link>https://www.bastianabaleiv.com/talk/2022-01-hapst/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bastianabaleiv.com/talk/2022-01-hapst/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Pronosticando Series de Tiempo en R</title>
       <link>https://www.bastianabaleiv.com/talk/2021-10-hapst/</link>
