@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Data Scientist" # TODO: edit!
   favicon = "/img/triton.png" # /img/favicon.ico
   logo = "/img/triton.png"
-  mainSections = ["blog", "talk"] # ["blog", "project", "talk"]
+  mainSections = ["talk"] # ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -134,11 +134,11 @@ enableEmoji = true
     title = "Acerca de Bastián Aballay"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  #[[menu.header]]
+  #  name = "Blog"
+  #  title = "Blog"
+  #  url = "/blog/"
+  #  weight = 2
   #[[menu.header]]
   #  name = "Projects"
   #  title = "Project Portfolio"

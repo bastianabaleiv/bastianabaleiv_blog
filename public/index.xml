@@ -6,7 +6,7 @@
     <description>Recent content on Bastián Aballay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://www.bastianabaleiv.com/collection/day02/01-netlify/</link>
@@ -84,7 +84,16 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
-      <title>Pronosticando Series de Tiempo con Machine Learning en R</title>
+      <title>Introducción al Pronóstico Jerárquico de Series de Tiempo en R</title>
+      <link>https://www.bastianabaleiv.com/talk/2022-04-hts/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bastianabaleiv.com/talk/2022-04-hts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usando modelos de Machine Learning para pronosticar Series de Tiempo en R.</title>
       <link>https://www.bastianabaleiv.com/talk/2022-01-hapst/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -109,19 +118,6 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>https://www.bastianabaleiv.com/talk/2021-10-hapst/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Buenas prácticas de escritura de código R</title>
-      <link>https://www.bastianabaleiv.com/blog/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bastianabaleiv.com/blog/evergreen/</guid>
-      <description>Rendering mathematical equations     Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown     In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:</description>
     </item>
     
     <item>

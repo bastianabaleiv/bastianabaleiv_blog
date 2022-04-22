@@ -6,13 +6,49 @@
     <description>Recent content in Categories on Bastián Aballay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bastianabaleiv.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>forecasting</title>
       <link>https://www.bastianabaleiv.com/categories/forecasting/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bastianabaleiv.com/categories/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hierarchical time series</title>
+      <link>https://www.bastianabaleiv.com/categories/hierarchical-time-series/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bastianabaleiv.com/categories/hierarchical-time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>https://www.bastianabaleiv.com/categories/r/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bastianabaleiv.com/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://www.bastianabaleiv.com/categories/talk/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bastianabaleiv.com/categories/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time series</title>
+      <link>https://www.bastianabaleiv.com/categories/time-series/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bastianabaleiv.com/categories/time-series/</guid>
       <description></description>
     </item>
     
@@ -22,33 +58,6 @@
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bastianabaleiv.com/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>r</title>
-      <link>https://www.bastianabaleiv.com/categories/r/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bastianabaleiv.com/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://www.bastianabaleiv.com/categories/talk/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bastianabaleiv.com/categories/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>time series</title>
-      <link>https://www.bastianabaleiv.com/categories/time-series/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bastianabaleiv.com/categories/time-series/</guid>
       <description></description>
     </item>
     

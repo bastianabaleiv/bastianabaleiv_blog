@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.88.1" />
-<title>Categories | Bastián Aballay</title>
+<title>Introducción al Pronóstico Jerárquico de Series de Tiempo en R | Bastián Aballay</title>
 
 
 <meta property="twitter:site" content="@bastianabaleiv">
@@ -24,32 +24,34 @@
   
     
   
-<meta name="description" content="Data Scientist">
+<meta name="description" content="Abordamos cómo explotar las dependencias jerárquicas entre series de tiempo (i.e. Categorías de Productos - Sub productos - SKUs) para generar pronósticos cuyos diferentes niveles de agregación sean reconciliados de manera satisfactoria con R">
 
 
 <meta property="og:site_name" content="Bastián Aballay">
-<meta property="og:title" content="Categories | Bastián Aballay">
-<meta property="og:description" content="Data Scientist" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.bastianabaleiv.com/categories/" />
+<meta property="og:title" content="Introducción al Pronóstico Jerárquico de Series de Tiempo en R | Bastián Aballay">
+<meta property="og:description" content="Abordamos cómo explotar las dependencias jerárquicas entre series de tiempo (i.e. Categorías de Productos - Sub productos - SKUs) para generar pronósticos cuyos diferentes niveles de agregación sean reconciliados de manera satisfactoria con R" />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="https://www.bastianabaleiv.com/talk/2022-04-hts/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://www.bastianabaleiv.com/img/astrocony.jpg" >
+        <meta property="og:image" content="https://www.bastianabaleiv.com/talk/2022-04-hts/featured.jpeg" >
         <meta property="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://www.bastianabaleiv.com/img/astrocony.jpg" >
+        <meta name="twitter:image" content="https://www.bastianabaleiv.com/talk/2022-04-hts/featured.jpeg" >
     
-  <meta itemprop="name" content="Categories">
-<meta itemprop="description" content="Data Scientist">
+    
+  <meta itemprop="name" content="Introducción al Pronóstico Jerárquico de Series de Tiempo en R">
+<meta itemprop="description" content=""><meta itemprop="datePublished" content="2022-04-04T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-04-04T00:00:00+00:00" />
+<meta itemprop="wordCount" content="0"><meta itemprop="image" content="https://www.bastianabaleiv.com/talk/2022-04-hts/featured.jpeg">
+<meta itemprop="keywords" content="" />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="shortcut icon" href="/img/triton.png" type="image/x-icon">
   <link rel="icon" href="/img/triton.png" type="image/x-icon">
-  
-    <link rel="alternate" type="application/rss+xml" href="https://www.bastianabaleiv.com/categories/index.xml" title="Bastián Aballay" />
   
   
   <link rel="stylesheet" href="/style.main.min.f72f5cc794fcc7b86cab520db152dc3ef55aea333df2e3496a4e1bac97849df2.css" integrity="sha256-9y9cx5T8x7hsq1INsVLcPvVa6jM98uNJak4brJeEnfI=" media="screen">
@@ -61,7 +63,7 @@
   <script src="/main.min.7767237aad03a74b55688c73c35fd1e7a689dce70c02d63187ab7433dcc79a0a.js" type="text/javascript"></script>
 </head>
 <body>
-      <div class="grid-container">
+      <div class="grid-container single">
 <header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
   <nav class="site-nav db dt-l w-100" role="navigation">
     <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://www.bastianabaleiv.com/" title="Home">
@@ -77,213 +79,160 @@
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="Charlas y Workshops">Charlas y Workshops</a>
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/talk/" title="Charlas y Workshops">Charlas y Workshops</a>
       
       
     </div>
   </nav>
 </header>
 
-
 <main class="page-main pa4" role="main">
-  <section class="blog-intro mw7 center mb5">
-    <h1 class="f2 f1-ns fw4 lh-solid tc center i">Categories</h1>
-    <p class="f6 f5-ns measure lh-copy tc center"></p>
-  </section>
-  <section class="blog-content mw7 center">
-  
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Introducción al Pronóstico Jerárquico de Series de Tiempo en R</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Abordamos cómo explotar las dependencias jerárquicas entre series de tiempo (i.e. Categorías de Productos - Sub productos - SKUs) para generar pronósticos cuyos diferentes niveles de agregación sean reconciliados de manera satisfactoria con R</h4>
+        <p class="f6 measure lh-copy mv1">By Bastián Aballay in <a href="https://www.bastianabaleiv.com/categories/talk">talk</a>  <a href="https://www.bastianabaleiv.com/categories/r">R</a>  <a href="https://www.bastianabaleiv.com/categories/time-series">time series</a>  <a href="https://www.bastianabaleiv.com/categories/forecasting">forecasting</a>  <a href="https://www.bastianabaleiv.com/categories/hierarchical-time-series">hierarchical time series</a> </p>
+        <p class="f7 db mv0 ttu">April 4, 2022</p>
+      
+        <div class="ph0 pt5">
+          
     
-                               
-     
-     
-<article class="mv4 mv5-l bb">
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://estacionlastarria.cl/herramientas-para-analisis-y-pronostico-de-series-de-tiempo-en-r/" target="_blank" rel="noopener"><i class="fas fa-door-open fa-lg fa-fw mr2"></i>Sitio web</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://www.youtube.com/watch?v=8B8OZqx22h0" target="_blank" rel="noopener"><i class="fab fa-youtube fa-lg fa-fw mr2"></i>YouTube</a>
+
+
+        </div>
+      
+      <section class="event-details cf pt5-ns pt4">
   
-  
-  
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/time-series/" class="db">time series</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
+  <div class="first-column">
+    <h5 class="row-label">Abstract</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">Clase abierta en colaboración con Estación Lastarria en el contexto de la tercera versión del curso Herramientas para Análisis y Pronóstico de Series de Tiempo en R (HAPST).</p>
   </div>
   
-</article>
+  
+  <div class="first-column">
+    <h5 class="row-label">Date</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">
+
+
+
+
 
   
-    
-                               
-     
-     
-<article class="mv4 mv5-l bb">
+  
+      April 4, 2022
   
   
+</p>
+  </div>
+  <div class="first-column">
+    <h5 class="row-label">Time</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">
+
+
+
+
   
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/talk/" class="db">talk</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
+  
+      12:00 AM
+  
+
+</p>
   </div>
   
-</article>
-
   
-    
-                               
-     
-     
-<article class="mv4 mv5-l bb">
-  
-  
-  
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/r/" class="db">r</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
+  <div class="first-column">
+    <h5 class="row-label">Location</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">Santiago, Chile</p>
   </div>
   
-</article>
-
   
-    
-                               
-     
-     
-<article class="mv4 mv5-l bb">
-  
-  
-  
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/hierarchical-time-series/" class="db">hierarchical time series</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
+  <div class="first-column">
+    <h5 class="row-label">Event</h5>
+  </div>
+  <div class="second-column">
+      <p class="row-details">
+        <a href="https://www.youtube.com/watch?v=8B8OZqx22h0" target="_blank">
+          Clase abierta para Estación Lastarria</a>
+      </p>
   </div>
   
-</article>
+</section>
+      </header>
+      <section class="post-body pt5 pb4">
+        <p><i class="fas fa-paw pr2"></i></p>
 
+        
+        <details closed class="f6 fw7 input-reset">
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Posted on:</dt>
+    <dd class="fw5 ml0">April 4, 2022</dd>
+  </dl>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Length:</dt>
+    <dd class="fw5 ml0">0 minute read, 0 words</dd>
+  </dl>
   
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="https://www.bastianabaleiv.com/categories/talk">talk</a>  <a href="https://www.bastianabaleiv.com/categories/r">R</a>  <a href="https://www.bastianabaleiv.com/categories/time-series">time series</a>  <a href="https://www.bastianabaleiv.com/categories/forecasting">forecasting</a>  <a href="https://www.bastianabaleiv.com/categories/hierarchical-time-series">hierarchical time series</a> </dd>
+  </dl>
+  
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
     
-                               
-     
-     
-<article class="mv4 mv5-l bb">
-  
-  
-  
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/forecasting/" class="db">forecasting</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
-  </div>
-  
-</article>
+  </dl>
+</details>
 
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
   
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://www.bastianabaleiv.com/talk/2022-01-hapst/">Usando modelos de Machine Learning para pronosticar Series de Tiempo en R. &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
     
-                               
-     
-     
-<article class="mv4 mv5-l bb">
-  
-  
-  
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/machine-learning/" class="db">machine learning</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-  
-    
-                               
-     
-     
-<article class="mv4 mv5-l bb">
-  
-  
-  
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/theme-features/" class="db">Theme Features</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-  
-    
-                               
-     
-     
-<article class="mv4 mv5-l bb">
-  
-  
-  
-  <div class="measure-wide center mb4 mb5-l">
-    <header>
-      <h1 class="f3 mt0 mb2 lh-title underline fw4"><a href="/categories/package/" class="db">package</a></h1>
-      
-    </header>
-      
-      
-    <footer>
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-  
   </section>
 </main>
 <footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
